@@ -17,7 +17,7 @@ function setup() {
     var canvas = createCanvas(1200, 700);
     engine = Engine.create();
     world = engine.world;
-}
+}      
 
 function draw() {
     if (backgroundImg) {
